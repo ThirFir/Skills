@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "노션 커리어 업데이트"
+  short_description: "MCP로 STAR 기반 경험을 노션 커리어 DB에 추가/갱신"
+  default_prompt: "$notion-career-experience-updater를 사용해 내 경험을 STAR로 정리하고 노션 커리어 데이터베이스를 바로 업데이트해줘."
