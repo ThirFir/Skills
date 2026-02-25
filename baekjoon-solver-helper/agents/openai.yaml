@@ -1,0 +1,5 @@
+﻿
+interface:
+  display_name: "백준 풀이/반례"
+  short_description: "백준 링크를 받아 풀이 또는 반례를 제공"
+  default_prompt: "Use $baekjoon-solver-helper to ask whether I want 풀이 or 반례 for a Baekjoon link, then continue with the selected mode."

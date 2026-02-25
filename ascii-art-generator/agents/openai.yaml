@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "ASCII 아트 그리기"
+  short_description: "아스키 아트를 생성해요"
+  default_prompt: "Use $ascii-art-generator to create ASCII art in mono, ANSI color, or HTML color mode, and include a plain fallback when needed."

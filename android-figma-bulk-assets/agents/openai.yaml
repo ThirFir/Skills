@@ -1,0 +1,4 @@
+interface:
+  display_name: "피그마 리소스 일괄 변환"
+  short_description: "Figma MCP로 에셋을 일괄 추출하고 안드로이드 벡터/PNG로 변환"
+  default_prompt: "$android-figma-bulk-assets를 사용해 선택한 피그마 에셋을 일괄 추출하고, 변환 가능한 SVG는 Android VectorDrawable XML로, 변환 불가 항목은 4x PNG로 폴백해 처리해줘. MCP가 연결되지 않았으면 즉시 중단하고 안내 메시지를 출력해줘."
